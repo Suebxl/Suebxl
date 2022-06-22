@@ -7,7 +7,7 @@ Welcome to my Github page
 <br>
 🌱  I’m currently learning Javascript
 <br>
-📫  How to reach me linkedin.com/in/suzannebxl
+📫  How to reach me <a src="linkedin.com/in/suzannebxl" >linkedin.com/in/suzannebxl</a>
 <br>
 ⚡   Fun fact: I have three nationalities.
 <br>
