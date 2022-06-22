@@ -1,7 +1,7 @@
 ## Welcome to my Github page  👋
 
 🎓    I graduated from 
-<img src="https://user-images.githubusercontent.com/73802863/175084287-cfe8ca3e-6c38-4553-ba1d-6547de291af0.png" width="30" height="30">
+<img src="https://user-images.githubusercontent.com/73802863/175084287-cfe8ca3e-6c38-4553-ba1d-6547de291af0.png" width="20" height="20">
 le Wagon Montreal in June 2022.
 <br>
 🔭    I’m currently working on becoming a front-end developper.
