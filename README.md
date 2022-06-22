@@ -1,10 +1,16 @@
 ### Hi there 👋
 Welcome to my Github page 
 
-🎓  I graduated from le Wagon Montreal, in June 2022.
+🎓  I graduated from le Wagon Montreal in June 2022.
+<br>
 🔭  I’m currently working on becoming a front-end developper.
+<br>
 🌱  I’m currently learning Javascript
+<br>
+📫  How to reach me linkedin.com/in/suzannebxl
+<br>
 ⚡   Fun fact: I have three nationalities.
+<br>
 💬  Ask me about cooking in 20 minutes a real meal.
 
 
