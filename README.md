@@ -1,14 +1,12 @@
 ## Welcome to my Github page  👋
 
-🎓    I graduated from 
-<img src="https://user-images.githubusercontent.com/73802863/175084287-cfe8ca3e-6c38-4553-ba1d-6547de291af0.png" width="20" height="20">
-le Wagon Montreal in June 2022.
+🎓<img src="https://user-images.githubusercontent.com/73802863/175084287-cfe8ca3e-6c38-4553-ba1d-6547de291af0.png" width="20" height="20">    I graduated from le Wagon Montreal in June 2022.
 <br>
 🔭    I’m currently working on becoming a front-end developper.
 <br>
-🌱    I’m currently learning <img src="https://user-images.githubusercontent.com/73802863/175089320-bf30033f-69cb-4c12-8645-7dea1da0e899.png" width="30" height="30">
+🌱    I’m currently learning Javascript.
 <br>
-⚡     Fun fact: I have three nationalities.
+⚡     Fun fact: I have 7 countries and 3 continents.
 <br>
 💬    Ask me about cooking in 20 minutes a real meal.
 
@@ -24,9 +22,9 @@ le Wagon Montreal in June 2022.
 </p>
 
 ## 📫 How to reach me 
-<p float="left">
-<img src="https://user-images.githubusercontent.com/73802863/175087581-2827d908-3f30-4a46-8593-e5d2efe24854.png" width="30" height="30"> 
-twitter.com/glacealavanille
+<p float="left"> 
+<img src="https://user-images.githubusercontent.com/73802863/175087581-2827d908-3f30-4a46-8593-e5d2efe24854.png" width="30" height="30" href="> 
+https://twitter.com/glacealavanille
 <br> 
 <img src="https://user-images.githubusercontent.com/73802863/175086639-21b4a39a-9dbf-4f05-9125-a0e07d29fef5.png" width="30" height="30"> linkedin.com/in/suzannebxl
 </p>
