@@ -2,13 +2,13 @@
 
 🎓<img src="https://user-images.githubusercontent.com/73802863/175084287-cfe8ca3e-6c38-4553-ba1d-6547de291af0.png" width="20" height="20">    I graduated from le Wagon Montreal in June 2022.
 <br>
-🔭    I’m currently working on becoming a front-end developper.
+🔭    I’m working on becoming a front-end developper.
 <br>
-🌱    I’m currently learning Javascript.
+🌱    I’m currently learning Javascript and building my portfolio.
 <br>
-⚡     Fun fact: I have 7 countries and 3 continents.
+⚡     Fun fact: I have lived in 7 countries and on 3 continents.
 <br>
-💬    Ask me about cooking in 20 minutes a real meal.
+💬    Ask me about cooking in 20 minutes a meal.
 
 ## Languages
 <p float="left">
