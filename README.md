@@ -1,6 +1,6 @@
 ## Welcome to my Github page  👋
 
-🎓<img src="https://user-images.githubusercontent.com/73802863/175084287-cfe8ca3e-6c38-4553-ba1d-6547de291af0.png" width="20" height="20">    I graduated from le Wagon Montreal in June 2022.
+🎓  I graduated from le Wagon <img src="https://user-images.githubusercontent.com/73802863/175084287-cfe8ca3e-6c38-4553-ba1d-6547de291af0.png" width="20" height="20">  Montreal in June 2022.
 <br>
 🔭    I’m working on becoming a front-end developper.
 <br>
