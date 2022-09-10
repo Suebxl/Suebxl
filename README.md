@@ -10,14 +10,15 @@
 
 ## Languages
 <p float="left">
-<img src="https://user-images.githubusercontent.com/73802863/175089938-361827b5-b6c5-458b-b82e-93c6498d4685.png" width="30" height="30">
-<img src="https://user-images.githubusercontent.com/73802863/175089777-ca20b70b-2efe-42fa-996e-3f9ca13ce00a.png" width="30" height="30">
-<img src="https://user-images.githubusercontent.com/73802863/175089683-ed752b32-273b-4fa4-b298-1a3271beb301.png" width="30" height="30">
-<img src="https://user-images.githubusercontent.com/73802863/175090182-3c200427-06e2-465a-bdbf-284b2b55efcf.png" width="30" height="30">
-<img src="https://user-images.githubusercontent.com/73802863/175091045-387a2928-72dd-45ea-bf32-e25e245c0e3a.png" width="30" height="30">
-<img src="https://user-images.githubusercontent.com/73802863/175091200-1fcce778-0c7b-495d-89de-bade355afc04.png" width="30" height="30">
-<img src="https://user-images.githubusercontent.com/73802863/175091302-c8c8f729-0966-48d9-912d-a5e1f6cb6e55.png" width="30" height="30">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
+<img src="https://user-images.githubusercontent.com/73802863/175089938-361827b5-b6c5-458b-b82e-93c6498d4685.png" width="50" height="50">
+<img src="https://user-images.githubusercontent.com/73802863/175089777-ca20b70b-2efe-42fa-996e-3f9ca13ce00a.png" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+<img src="https://user-images.githubusercontent.com/73802863/175089683-ed752b32-273b-4fa4-b298-1a3271beb301.png" width="50" height="50">
+<img src="https://user-images.githubusercontent.com/73802863/175090182-3c200427-06e2-465a-bdbf-284b2b55efcf.png" width="50" height="50">
+<img src="https://user-images.githubusercontent.com/73802863/175091045-387a2928-72dd-45ea-bf32-e25e245c0e3a.png" width="50" height="50">
+<img src="https://user-images.githubusercontent.com/73802863/175091200-1fcce778-0c7b-495d-89de-bade355afc04.png" width="50" height="50">
+<img src="https://user-images.githubusercontent.com/73802863/175091302-c8c8f729-0966-48d9-912d-a5e1f6cb6e55.png" width="50" height="50">
+ 
 </p>
 
 ## 📫 How to reach me 
