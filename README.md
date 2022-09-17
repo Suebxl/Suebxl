@@ -21,6 +21,8 @@
  
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suebxl)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📫 How to reach me 
 <p float="left"> 
 <img src="https://user-images.githubusercontent.com/73802863/175087581-2827d908-3f30-4a46-8593-e5d2efe24854.png" width="30" height="30" href="> 
