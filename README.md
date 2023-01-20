@@ -21,14 +21,11 @@
  
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suebxl)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to reach me 
 <p float="left"> 
-<img src="https://user-images.githubusercontent.com/73802863/175087581-2827d908-3f30-4a46-8593-e5d2efe24854.png" width="30" height="30" href="> 
-https://twitter.com/glacealavanille
-<br> 
-<img src="https://user-images.githubusercontent.com/73802863/175086639-21b4a39a-9dbf-4f05-9125-a0e07d29fef5.png" width="30" height="30"> linkedin.com/in/suzannebxl
+<a href="https://twitter.com/glacealavanille"><img src=	"https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a>
+<a href="linkedin.com/in/suzannebxl"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">  </a>
 </p>
 
   <!--
