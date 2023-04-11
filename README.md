@@ -4,7 +4,7 @@
 <br>
 🔭    I’m working on becoming a front-end developper.
 <br>
-🌱    I’m currently learning Javascript and React and building my portfolio.
+🌱    I’m currently learning in depth CSS, Javascript and React and building my portfolio.
 <br>
 ⚡     Fun fact: I have lived in 7 countries and on 3 continents.
 
